@@ -1,5 +1,5 @@
 /* write your override styles here */
-/*
+
 #wall .tag-1 {
   display: none;
 }
@@ -12,22 +12,22 @@
   display: none;
 }
 
-.parent .tag-4 {
+#tag-4 {
   display: none;
 }
 
-.parent .tag-5 {
+#tag-5 {
   display: none;
 }
 
-.parent .tag-6 {
+#tag-6 {
   display: none;
 }
 
-.parent .tag-7 {
+#tag-7 {
   display: none;
 }
-*/
+
 /*<body style="">
   <div id="wall">
     <div class="tag-1"></div>
