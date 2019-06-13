@@ -1,6 +1,8 @@
 /* write your override styles here */
 
-
+div {
+  display: none;
+}
 
 /*<body style="">
   <div id="wall">
