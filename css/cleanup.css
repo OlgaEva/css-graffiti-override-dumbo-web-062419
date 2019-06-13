@@ -4,6 +4,14 @@
   display: none;
 }
 
+#wall .tag-2 {
+  display: none;
+}
+
+#wall .tag-3 {
+  display: none;
+}
+
 /*<body style="">
   <div id="wall">
     <div class="tag-1"></div>
