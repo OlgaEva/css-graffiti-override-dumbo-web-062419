@@ -12,6 +12,21 @@
   display: none;
 }
 
+.parent .tag-4 {
+  display: none;
+}
+
+.parent .tag-5 {
+  display: none;
+}
+
+.parent .tag-6 {
+  display: none;
+}
+
+.parent .tag-7 {
+  display: none;
+}
 /*<body style="">
   <div id="wall">
     <div class="tag-1"></div>
